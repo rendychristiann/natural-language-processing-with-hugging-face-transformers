@@ -6,7 +6,7 @@
 
 ![image](https://github.com/rendychristiann/natural-language-processing-with-hugging-face-transformers/assets/78911479/4236dfd5-c3f6-4574-9c75-9623a1474e37)
 
-This repository serve as my learning environment of "Natural Language Processing (NLP) with Hugging Face Transformers Course" by CognitiveClass.ai as a daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
+This repository serves as my learning environment of "Natural Language Processing (NLP) with Hugging Face Transformers Course" by CognitiveClass.ai as a daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
 - [Mentee Information](#Mentee-Information)
